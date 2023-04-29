@@ -1,5 +1,5 @@
-import Root from "pages/root";
 import React from "react";
+import Root from "pages/root";
 
 //react-router-dom
 import { Routes, Route } from "react-router-dom";

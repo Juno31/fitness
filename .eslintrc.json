@@ -1,3 +1,7 @@
 {
-  "extends": ["prettier"]
+  "extends": ["plugin:react/recommended", "prettier"],
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  }
 }
