@@ -1,5 +1,5 @@
 {
   "hooks": {
-    "pre-commit": "echo 'Hello Juno, woof!'"
+    "pre-commit": "echo 'Hello Juno2, woof!'"
   }
 }
