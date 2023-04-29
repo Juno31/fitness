@@ -1,5 +1,5 @@
 {
   "hooks": {
-    "pre-commit": "echo 'hello juno' && npm run lint"
+    "pre-commit": "echo 'Hello Juno, woof!'"
   }
 }
